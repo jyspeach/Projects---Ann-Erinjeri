@@ -24,7 +24,7 @@ The dataset includes features such as:
 - Vehicle Damage
 - Response (target variable)
 
-The dataset exhibits **class imbalance**, where approximately **87.8% did not purchase insurance and 12.2% did**. :contentReference[oaicite:1]{index=1}
+The dataset exhibits **class imbalance**, where approximately **87.8% did not purchase insurance and 12.2% did**. 
 
 ## Methods
 The following steps were performed:
