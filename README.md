@@ -125,20 +125,28 @@ Predicts whether customers will purchase a new insurance policy using classifica
 **Tools:** Python, Scikit-learn  
 
 </td>
-</tr>
-
 <tr>
 <td width="50%">
 
 ### Bayesian Migration Model
+
+<p>
 Bayesian probability modelling of seabird migration between islands.
+</p>
+
+<p>
+<b>Tools:</b> Bayesian Statistics, Probability Theory
+</p>
 
 </td>
 
 <td width="50%">
 
 ### C# Web Browser
+
+<p>
 A desktop browser built using .NET and Windows Forms with bookmarking and history.
+</p>
 
 <a href="CSharp-Web-Browser">
 <img src="CSharp-Web-Browser/screenshot/browser_overall_view.png" width="100%">
