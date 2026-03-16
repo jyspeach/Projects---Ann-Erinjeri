@@ -1,0 +1,243 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "user_name": "Aditya S",
+            "user_password": "7777",
+            "allocated_devices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "user_role": "super_user",
+            "device_groups": [
+                {
+                    "id": 2,
+                    "name": "Bedroom Device",
+                    "status": "off",
+                    "devices": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Hall Devices",
+                    "status": "on",
+                    "devices": [
+                        1,
+                        3,
+                        4,
+                        6
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Bathroom Devices",
+                    "status": "off",
+                    "devices": [
+                        7,
+                        8,
+                        6,
+                        5
+                    ]
+                }
+            ]
+        },
+        {
+            "user_id": 2,
+            "user_name": "David Farid",
+            "user_password": "1415",
+            "allocated_devices": [
+                "1",
+                "8",
+                "2",
+                "3",
+                "7"
+            ],
+            "user_role": "sub_user",
+            "device_groups": [
+                {
+                    "id": 2,
+                    "name": "Bedroom Devices",
+                    "status": "on",
+                    "devices": [
+                        2,
+                        7
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Kitchen Devices",
+                    "status": "on",
+                    "devices": [
+                        7,
+                        8
+                    ]
+                }
+            ]
+        },
+        {
+            "user_id": 3,
+            "user_name": "Ann E",
+            "user_password": "9999",
+            "allocated_devices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "7",
+                "8",
+                "5"
+            ],
+            "user_role": "sub_user",
+            "device_groups": [
+                {
+                    "id": 2,
+                    "name": "Bedroom Devices",
+                    "status": "on",
+                    "devices": [
+                        2,
+                        6,
+                        7
+                    ]
+                }
+            ]
+        },
+        {
+            "user_id": 4,
+            "user_name": "Chenith",
+            "user_password": "1234",
+            "allocated_devices": [
+                "1",
+                "2",
+                "3"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 5,
+            "user_name": "Zeeshan K",
+            "user_password": "1234",
+            "allocated_devices": [
+                "1"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 6,
+            "user_name": "Vanshh P",
+            "user_password": "1234",
+            "allocated_devices": [
+                "1",
+                "3",
+                "6"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 7,
+            "user_name": "Ambarish",
+            "user_password": "1111",
+            "allocated_devices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 10,
+            "user_name": "Isha",
+            "user_password": "0987",
+            "allocated_devices": [
+                "4",
+                "3"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 11,
+            "user_name": "Priyanka",
+            "user_password": "3054",
+            "allocated_devices": [
+                "1",
+                "4",
+                "8",
+                "6"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 13,
+            "user_name": "Angel",
+            "user_password": "1009",
+            "allocated_devices": [
+                "8",
+                "7"
+            ],
+            "user_role": "sub_user"
+        },
+        {
+            "user_id": 14,
+            "user_name": "David Dino",
+            "user_password": "0310",
+            "allocated_devices": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "user_role": "sub_user",
+            "device_groups": [
+                {
+                    "id": 1,
+                    "name": "Kitchen",
+                    "status": "on",
+                    "devices": [
+                        3,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Bathroom",
+                    "status": "on",
+                    "devices": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            ]
+        },
+        {
+            "user_id": 15,
+            "user_name": "Keya ",
+            "user_password": "2911",
+            "allocated_devices": [
+                "1",
+                "3",
+                "8",
+                "6"
+            ],
+            "user_role": "sub_user"
+        }
+    ]
+}
