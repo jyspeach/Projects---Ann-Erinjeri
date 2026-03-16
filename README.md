@@ -100,6 +100,49 @@ Across these projects, the following technical skills are demonstrated:
 - Web and desktop application development
 
 ---
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Power BI Sales Dashboard
+Interactive business intelligence dashboard analysing sales performance using Power BI.
+
+**Tools:** Power BI, DAX  
+
+<a href="PowerBI-Sales-Dashboard">
+<img src="PowerBI-Sales-Dashboard/screenshots/brand_view.png" width="100%">
+</a>
+
+</td>
+
+<td width="50%">
+
+### Machine Learning Insurance Prediction
+Predicts whether customers will purchase a new insurance policy using classification models.
+
+**Tools:** Python, Scikit-learn  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Bayesian Migration Model
+Bayesian probability modelling of seabird migration between islands.
+
+</td>
+
+<td width="50%">
+
+### C# Web Browser
+A desktop browser built using .NET and Windows Forms with bookmarking and history.
+
+</td>
+</tr>
+</table>
 
 ## Author
 
