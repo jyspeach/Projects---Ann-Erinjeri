@@ -2,6 +2,12 @@
 
 This repository contains a collection of projects developed as part of coursework and independent study in data science, machine learning, business analytics, and software engineering. These projects demonstrate practical applications of statistical modelling, machine learning algorithms, data visualization, and software development.
 
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-DataScience-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![MachineLearning](https://img.shields.io/badge/MachineLearning-AI-green)
+![CSharp](https://img.shields.io/badge/C%23-.NET-purple)
 ---
 
 ## Power BI Sales Dashboard
