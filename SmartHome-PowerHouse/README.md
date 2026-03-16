@@ -50,4 +50,5 @@ Diing Juach
 Saif Khalifa
 
 ## Author Contribution
-Ann Erinjeri
+Ann Erinjeri - Database Team Lead
+
