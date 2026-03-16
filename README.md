@@ -112,7 +112,7 @@ Interactive business intelligence dashboard analysing sales performance using Po
 **Tools:** Power BI, DAX  
 
 <a href="PowerBI-Sales-Dashboard">
-<img src="PowerBI-Sales-Dashboard/screenshots/overview.png" width="100%">
+<img src="PowerBI-Sales-Dashboard/screenshots/brand_view.png" width="100%">
 </a>
 
 </td>
